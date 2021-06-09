@@ -20,6 +20,7 @@
 <p>
    <h1>Hi there 👋</h1>
    <br>
+   My name is shay Marko and I'm a java full stack developer. 
 </p>
 
   <h3>Technologies & Tools</h3>
