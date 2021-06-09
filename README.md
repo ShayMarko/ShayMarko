@@ -1,7 +1,7 @@
 <!-- Hi there! Feel free to make this your own. -->
 
 <div align="center">
-    <a href="https://stephenajulu.com"><img style="height:150px; width:150px" src="assets/img/coding.png"></a>
+    <a href="https://stephenajulu.com"><img src="assets/img/coding.png"></a>
     <br>
     <h3>Hi there! 👋🤓<br>
         I'm Shay Shabtai Marko<br>
