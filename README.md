@@ -21,4 +21,5 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 - 📫 How to reach me:
+<br>
 <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
