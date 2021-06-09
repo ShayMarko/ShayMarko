@@ -1,31 +1,7 @@
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-- 📫 How to reach me:
-<br>
-<a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-
-
-
-
-
-
--->
 <!-- Hi there! Feel free to make this your own. -->
 
 <div align="center">
-    <a href="https://stephenajulu.com"><img src="images/stephenajulu header 2.png" alt="Ajulu's Header"></a>
+    <a href="https://stephenajulu.com"><img src="assets/img/logo.png" alt="Ajulu's Header"></a>
     <br>
     <h3>Hi there! 👋🤓<br>
         I'm Shay Shabtai Marko
