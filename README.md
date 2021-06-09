@@ -4,7 +4,7 @@
     <a href="https://stephenajulu.com"><img src="assets/img/logo.jpgu" alt="Ajulu's Header"></a>
     <br>
     <h3>Hi there! 👋🤓<br>
-        I'm Shay Shabtai Marko
+        I'm Shay Shabtai Marko<br>
         a Java FullStack developer</h3>
     <h4><a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> • <a href="#">Website</a></h4>
     <hr width="50%" style="height:5px;">
