@@ -13,6 +13,7 @@
         <a href="#">- FullStack Coupon system</a><br>
         <a href="#">- Self snippets web</a><br>
         <a href="#">- Interview Simulator for students and companies</a><br>
+        <a href="#">- Customized 404 page for a customer</a><br>
     </p>
     <hr width="50%" style="height:5px;">
     <h3>Technologies & Tools</h3>
