@@ -17,9 +17,10 @@
 <a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 -->
-
-<h1>Hi there 👋</h1>
-<br>
+<p>
+   <h1>Hi there 👋</h1>
+   <br>
+</p>
 
   <h3>Technologies & Tools</h3>
   <br>
