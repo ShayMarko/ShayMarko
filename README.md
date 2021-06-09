@@ -10,9 +10,9 @@
     <hr width="50%" style="height:5px;">
     <h3>💼 What & Where I am currently working at/on/as</h3>
     <p>
-        <a href="#">FullStack Coupon system</a><br>
-        <a href="#">Self snippets web</a><br>
-        <a href="#">Interview Simulator for students and companies</a><br>
+        <a href="#">- FullStack Coupon system</a><br>
+        <a href="#">- Self snippets web</a><br>
+        <a href="#">- Interview Simulator for students and companies</a><br>
     </p>
     <hr width="50%" style="height:5px;">
     <h3>Technologies & Tools</h3>
