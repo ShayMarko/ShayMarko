@@ -6,12 +6,12 @@
     <h3>Hi there! 👋🤓<br>
         I'm Shay Shabtai Marko<br>
         a Java FullStack developer</h3>
-    <h4><a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> • <a href="#">Website</a> • <a href="mailto:Smarko1997@gmail.com">Email</a></h4>
+    <h4><a href="https://www.linkedin.com/in/shay-marko-0a4ba01b5/">Socials</a> • <a href="https://sm-port-folio.herokuapp.com">Website</a> • <a href="mailto:Smarko1997@gmail.com">Email</a></h4>
     <hr width="50%" style="height:5px;">
     <h3>💼 What & Where I am currently working at/on/as</h3>
     <p>
         <a href="#">- FullStack Coupon system</a><br>
-        <a href="#">- Self snippets web</a><br>
+        <a href="https://sm-snippets.herokuapp.com">- Self snippets web</a><br>
         <a href="#">- Interview Simulator for students and companies</a><br>
         <a href="#">- Customized 404 page for a customer</a><br>
     </p>
